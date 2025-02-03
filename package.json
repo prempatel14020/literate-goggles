@@ -1,0 +1,30 @@
+{
+  "name": "literate-goggles",
+  "version": "1.0.0",
+  "description": "Environment Setup Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Glloyd5/literate-goggles.git"
+  },
+  "author": "Griffin L. | Sean S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glloyd5/literate-goggles/issues"
+  },
+  "homepage": "https://github.com/Glloyd5/literate-goggles#readme",
+  "dependencies": {
+    "@capacitor/core": "^7.0.1",
+    "@firebase/firestore": "^4.7.6",
+    "capacitor": "^0.5.6",
+    "react": "^19.0.0",
+    "tailwindcss": "^4.0.3",
+    "xcode": "^3.0.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.1"
+  }
+}
